@@ -1,0 +1,6 @@
+train: D:\DataScience\FaceMaskDetection\reducedOutput\yolov5\data\train\images
+val: D:\DataScience\FaceMaskDetection\reducedOutput\yolov5\data\val\images
+                
+nc: 3
+
+names: [without_mask, with_mask, mask_weared_incorrect]
